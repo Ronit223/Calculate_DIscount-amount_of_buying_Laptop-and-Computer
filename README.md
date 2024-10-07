@@ -20,5 +20,15 @@ Discount ( in % )------>
 
 The Code make damage to the main concept of the code in Turbo C++ If the value is higher than reality price. So, Use #VS Code# for better output.
 
+# Output :-
+Enter Name- Ronit Chatterjee 
+Enter Address - Kulti DVC Colony 
+Enter amount of purchase - 30000
+Enter type of purchase (L/C) - L
+Your net amount is: 28500 Sir Ronit Chatterjee.
+It will delivered to Kulti DVC Colony.
+
+
+
 
 
