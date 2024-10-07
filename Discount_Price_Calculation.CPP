@@ -41,7 +41,7 @@ int main()
   discount = (discount_rate / 100) * (double)amount;
   net_amount =(double)( amount -  discount) ;
 
-  printf("Your net amount is: %0.2lf Sir %s.\nIt will delivered to %s", net_amount,name,address);
+  printf("Your net amount is: %0.2lf Sir %s.\nIt will delivered to %s.", net_amount,name,address);
 
   return 0;
 }
