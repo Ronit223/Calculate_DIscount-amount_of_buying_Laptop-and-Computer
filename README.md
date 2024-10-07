@@ -8,8 +8,11 @@ The source code is made focused on the Question----
 
 An electronic shop has announced the following seasonal discounts on purchase of certain items:
 
-Discount ( in % )------> In Laptop  -- 0.0(Upto 25 thousand) , 5.0(25,001 to 57,000) , 7.5(57,001 to 1,00,000) , 10.0(More than 1,00,000)
-                         In Desktop/PC -- 5.0(Upto 25 thousand), 7.5(25,001 to 57,000), 10.0(57,001 to 1,00,000) , 15.0(More than 1,00,000)
+Discount ( in % )------>
+
+                         In Laptop  -- 0.0(Upto 25 thousand) , 5.0(25,001 to 57,000) , 7.5(57,001 to 1,00,000) , 10.0(More than 1,00,000).
+
+                         In Desktop/PC -- 5.0(Upto 25 thousand), 7.5(25,001 to 57,000), 10.0(57,001 to 1,00,000) , 15.0(More than 1,00,000).
 
 -- Write a program based on above criteria , to input name, address, amount of purchase and the type of purchase ( 'L' for Laptop & 'C' for Desktop ). Compute and print the net amount to be paid by a customer with his name and address.
 
